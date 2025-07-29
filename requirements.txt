@@ -1,0 +1,8 @@
+pandas
+fireducks
+faker
+numpy
+matplotlib
+seaborn
+psutil
+tqdm
